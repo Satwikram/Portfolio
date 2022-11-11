@@ -167,7 +167,7 @@ $(document).ready(function () {
 
         var i = 0;
         var i = 0;
-        var txt = 'ikhil Khule,';
+        var txt = ' - Satwik Ram Kodandaram,';
 
         function typeWriter() {
 
